@@ -13,3 +13,5 @@ Alarma que detecta un intruso y enciende una alarma.
 HC-SR501 -|3    6|- Led rojo
      GND -|4    5|- Led verde
           |______|
+
+El ATTiny85 y el sensor se alimentan con 5v, en caso de usar una batería de 9v agregar un relulador LM7805. 
